@@ -2,7 +2,12 @@
   <!-- About Section Start -->
   <section id="home" class="pt-36">
     <div class="container">
-      <div class="flex flex-wrap px-8">
+      <div class="flex flex-wrap px-8 place-content-center">
+        <div class="w-full self-end px-4 lg:w-1/4">
+          <div class="relative mt-10 lg:mt-0 lg:right-0">
+            <img src="../assets/img/2.png" alt="profil" class="max-w-full mx-auto scale-200" />
+          </div>
+        </div>
         <div class="w-1/2 self-center px-4 mb-10">
           <h4 class="font-bold uppercase text-lg mb-3" id="sub-title">Tentang Saya</h4>
           <h2 class="font-bold text-3xl">
@@ -15,7 +20,8 @@
             Java. Sejak saat itu saya tertarik terhadap Pemrograman.
           </p>
         </div>
-        <div class="text-primary w-1/2 px-4">
+      </div>
+      <div class="text-primary w-1/2 px-4">
           <h3 class="font-semibold text-2xl mb-4">Mari Berteman</h3>
           <p class="font-medium text-base text-gray-500 mb-6">
             Dibawah ini wadah saya untuk berdunia maya, jadi jangan heran bila terdapat banyak
@@ -79,7 +85,6 @@
             <svg class="fill-current" width="20" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
           </a>
         </div>
-      </div>
       </div>
     </div>
   </section>

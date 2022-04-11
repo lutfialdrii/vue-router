@@ -22,6 +22,11 @@ const routes = [
     name: '/contact',
     component: () => import('../views/ContactView.vue'),
   },
+  {
+    path: '/pengalaman',
+    name: '/pengalaman',
+    component: () => import('../views/PengalamanView.vue'),
+  },
 ];
 const router = createRouter({
   history: createWebHashHistory(),
