@@ -3,7 +3,7 @@
   <section id="home" class="pt-36 pb-32">
     <div class="container">
       <div class="flex flex-wrap">
-        <div class="w-full self-center px-4 mb-10">
+        <div class="w-1/2 self-center px-4 mb-10">
           <h4 class="font-bold uppercase text-lg mb-3" id="sub-title">Tentang Saya</h4>
           <h2 class="font-bold text-3xl">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, ipsa.
@@ -13,11 +13,11 @@
             sapiente delectus perferendis.
           </p>
         </div>
-        <div class="text-primary w-full px-4">
+        <div class="text-primary w-1/2 px-4">
           <h3 class="font-semibold text-2xl mb-4">Mari Berteman</h3>
           <p class="font-medium text-base text-gray-500 mb-6">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia, facere? Excepturi
-            suscipit velit enim quos!
+            Dibawah ini wadah saya untuk berdunia maya, jadi jangan heran bila terdapat banyak
+            <span class="text-red-400 ">gimmick</span>!
           </p>
         <div class="flex items-center text-center">
           <!-- youtube -->
