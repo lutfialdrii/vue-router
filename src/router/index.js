@@ -27,6 +27,11 @@ const routes = [
     name: '/pengalaman',
     component: () => import('../views/PengalamanView.vue'),
   },
+  {
+    path: '/sosialmedia',
+    name: '/sosialmedia',
+    component: () => import('../views/SosialmediaView.vue'),
+  },
 ];
 const router = createRouter({
   history: createWebHashHistory(),

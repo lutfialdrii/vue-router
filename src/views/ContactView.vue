@@ -6,9 +6,9 @@
       <div class="w-full px-4">
         <div class="max-w-xl mx-auto text-center mb-16">
           <h4 class="font-semibold text-lg text-red-400 mb-2">Contact</h4>
-          <h2 class="font-bold text-3xl mb-4 sm:text-4xl">Hubungi Kami</h2>
+          <h2 class="font-bold text-3xl mb-4 sm:text-4xl">Hubungi Saya!</h2>
           <p class="font-medium text-md text-gray-500 md:text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, aperiam.
+            Punya pertanyaan? Hubungi saya!
           </p>
         </div>
       </div>

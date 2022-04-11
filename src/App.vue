@@ -1,11 +1,11 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link> |
-    <router-link to="/portfolio">Kesibukan</router-link> |
-    <router-link to="/contact">Contact</router-link> |
+    <router-link to="/about">Dongeng</router-link> |
+    <router-link to="/portfolio">Portfolio</router-link> |
     <router-link to="/pengalaman">Pengalaman</router-link> |
-    <router-link to="/sosialmedia">Sosial Media</router-link>
+    <router-link to="/sosialmedia">Sosial Media</router-link> |
+    <router-link to="/contact">Contact</router-link>
   </nav>
   <router-view/>
     <footer class="bg-red-400 pt-2 pb-2 container">
