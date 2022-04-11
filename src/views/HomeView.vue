@@ -1,6 +1,6 @@
 <template>
   <!-- Hero Section Start -->
-  <section id="home" class="pt-36">
+  <section id="home" class="pt-24">
     <div class="container">
       <div class="flex flex-wrap ml-20">
         <div class="w-full self-center px-4 lg:w-1/2">

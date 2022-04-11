@@ -1,8 +1,8 @@
 <template>
   <!-- About Section Start -->
-  <section id="home" class="pt-36 pb-32">
+  <section id="home" class="pt-36">
     <div class="container">
-      <div class="flex flex-wrap">
+      <div class="flex flex-wrap px-8">
         <div class="w-1/2 self-center px-4 mb-10">
           <h4 class="font-bold uppercase text-lg mb-3" id="sub-title">Tentang Saya</h4>
           <h2 class="font-bold text-3xl">
