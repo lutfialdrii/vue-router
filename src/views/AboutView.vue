@@ -6,11 +6,13 @@
         <div class="w-1/2 self-center px-4 mb-10">
           <h4 class="font-bold uppercase text-lg mb-3" id="sub-title">Tentang Saya</h4>
           <h2 class="font-bold text-3xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, ipsa.
+            Dongeng Singkat
           </h2>
-          <p class="font-medium text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste eius, pariatur beatae
-            sapiente delectus perferendis.
+          <p class="mt-2 text-base text-gray-500">
+            Saya Lutfi Aldri Permana , Mahasiswa Jurusan Teknik Informatika, Saya baru menggeluti
+            dunia percodingan sekitaran 2 tahun ini. 05 Oktober 2020 tepat program HelloWorld
+            pertama kali saya jalankan. Saat itu Bahasa Pemrograman pertama yang saya coba ialah
+            Java. Sejak saat itu saya tertarik terhadap Pemrograman.
           </p>
         </div>
         <div class="text-primary w-1/2 px-4">
