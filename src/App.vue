@@ -8,7 +8,7 @@
     <router-link to="/contact">Contact</router-link>
   </nav>
   <router-view/>
-    <footer class="bg-red-400 pt-2 pb-2 container">
+  <footer class="bg-red-400 pt-2 pb-2 container">
     <p class="text-center text-white">Made with ❤ by Lutfi</p>
   </footer>
 </template>
